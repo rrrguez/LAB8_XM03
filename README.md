@@ -1,4 +1,4 @@
-# LAB7_XM03
+# LAB8_XM03
 Repositorio donde almacenaremos el código de la plataforma de recogida de firmas
 
 Miembros del grupo FIS_XM03:
@@ -16,7 +16,7 @@ Miembros del grupo FIS_XM03:
 6º Pablo Urquía Adrián ==> alu0101398327@ull.edu.es
 
 COMPILAR:
-  Para compilar, estando en el directorio LAB7_XM03 usar el comando:
+  Para compilar, estando en el directorio LAB8_XM03 usar el comando:
     make
   
   A la hora de limpiar los archivos *.o usar:
@@ -27,6 +27,6 @@ COMPILAR:
 
 
 EJECUTAR
-  A la hora de ejecutar, estando en el directorio LAB7_XM03:
+  A la hora de ejecutar, estando en el directorio LAB8_XM03:
     ./bin/plataforma_firmas
 
