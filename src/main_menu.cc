@@ -1,13 +1,13 @@
-/**
+/** 
  * Universidad de La Laguna (ULL)
  * Escuela Superior de Ingenieria y Tecnologia (ESIT)
  * Grado en Ingenieria Informatica
  * Asignatura: Fundamentos de Ingenieria del Software (F.I.S.)
  * Curso: 2º
- * Practica 7: Desarrollo Agil (I)
+ * Practica 8: Desarrollo Agil (II)
  * @author FIS_E03 (Fernando - Pablo)
  * Correo: alu0101394763@ull.edu.es
- * @date 06/05/2022
+ * @date 19/05/2022
  * 
  * @file main_menu.cc (programa cliente)
  * @brief Programa que nos permite usar una implementacion de una plataforma de
