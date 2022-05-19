@@ -4,10 +4,10 @@
  * Grado en Ingenieria Informatica
  * Asignatura: Fundamentos de Ingenieria del Software (F.I.S.)
  * Curso: 2º
- * Practica 7: Desarrollo Agil (I)
+ * Practica 8: Desarrollo Agil (II)
  * @author FIS_E03 (Sergio - Julio)
  * Correo: alu0101394763@ull.edu.es
- * @date 06/05/2022
+ * @date 19/05/2022
  * 
  * @file DataBase.cc
  * @brief Donde se desarrollan los metodos de la clase DataBase contenida
