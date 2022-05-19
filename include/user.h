@@ -4,10 +4,10 @@
  * Grado en Ingenieria Informatica
  * Asignatura: Fundamentos de Ingenieria del Software (F.I.S.)
  * Curso: 2º
- * Practica 7: Desarrollo Agil (I)
+ * Practica 8: Desarrollo Agil (II)
  * @author FIS_E03 (Cristopher - Rebeca)
  * Correo: alu0101394763@ull.edu.es
- * @date 06/05/2022
+ * @date 19/05/2022
  * 
  * @file User.h 
  * @brief Donde se aloja la declaración de la clase User y la declaracion
